@@ -1,0 +1,5 @@
+# Build/output files
+*.exe
+*.out
+*.o
+.DS_Store
